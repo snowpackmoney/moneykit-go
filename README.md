@@ -1,1 +1,0 @@
-# moneykit-go

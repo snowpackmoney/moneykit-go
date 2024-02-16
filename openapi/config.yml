@@ -1,0 +1,7 @@
+gitRepoId: moneykit-go
+gitUserId: snowpackmoney
+packageName: moneykit
+packageVersion: 0.1.0
+templateDir: /local/openapi/templates
+files:
+  README.md: {}
